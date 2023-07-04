@@ -10,17 +10,16 @@ export default defineNuxtConfig({
     head: {
       charset: "utf-8",
       viewport: "width=device-width,initial-scale=1",
-      title: "巧智绘 | 儿童智慧场景一站式解决方案",
+      title: "这里是tilte",
       meta: [
         {
           name: "description",
-          content:
-            "巧智绘是聚焦儿童智慧场景综合服务商，以智能化游戏、数字化平台、创新型空间、特色化品牌为核心，为儿童智慧场景建设提供一站式解决方案。",
+          content:"这里是描述",
         },
         {
           name: "Keywords",
           content:
-            "巧智绘、儿童、智慧校园、数字教育、现代化幼儿园、智慧教育、AR、VR、全息、元宇宙、儿童科技玩具、学前教育、智能游戏、儿童空间设计、MI、VI、IP、SI、视频拍摄",
+            "儿童、智慧校园、数字教育、现代化幼儿园、智慧教育、AR、VR、全息、元宇宙、儿童科技玩具、学前教育、智能游戏、儿童空间设计、MI、VI、IP、SI、视频拍摄",
         },
       ],
       link: [{ rel: "icon", href: "/favicon.ico", type: "image/x-icon" }],
